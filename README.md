@@ -1,4 +1,4 @@
-# RDP Windows Gratis 6 Jam
+# RDP Windows Gratis 12 Jam
 
 Buat RDP Windows Ram 7GB 2 Core Cpu Dengan Github:
 
